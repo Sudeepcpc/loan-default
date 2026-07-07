@@ -2,7 +2,7 @@
 
 Predicting whether a loan applicant will default, using three machine learning models — **logistic regression, a decision tree, and a random forest — all implemented from scratch in NumPy**, with no scikit-learn, XGBoost, or any ML library doing the work.
 
-**Live demo:** _add your Streamlit link here after deploying_
+**Live demo:** https://loan-default--sudeepcpc.streamlit.app
 **Author:** Sudeep C P — [github.com/Sudeepcpc](https://github.com/Sudeepcpc)
 
 ---
